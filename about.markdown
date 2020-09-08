@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This is a site to show stuff I've made and things I've worked on and things I've build and whatnot. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I think the fist thing will be a book case. There might be a few posts about random stuff I've added to my bike. Hopefully there'll be some about automations and AIs I create. 
 
+I will probably write more stories. They will likely not be consistent or cogent. 
 
-[jekyll-organization]: https://github.com/jekyll
+Hopefully I'll also write about books I read, and maybe write summaries of them.
