@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Advent of Code"
-date:   202012-04 17:34:26 +0100
+date:   2020-12-04 17:34:26 +0100
 categories: admin update
 ---
 
