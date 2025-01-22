@@ -13,4 +13,8 @@ On the upside Garmin is telling my VO2 max is back up to 52, a +2 improvement si
 
 So I need to find somewhere to rent in the space of about a week, move there, or put all my stuff into storage and find somewhere else to be until I find somewhere to live, and then _after_ that I need to get another job, after working at a failing company that is busy tidying itself up for being acquired in North America or something, so dumping all of it's UK/EU staff, which has been a demotivating experience. I should go find some source of motivation. Perhaps I should make something that I want to make. 
 
-But first! Somewhere to live! And a haircut (but by me instead of the heretic who messed up my hair and my beard so badly I had to clean shave and recut it myself)! And a yoga retreat! 
+But first! Somewhere to live! And a haircut (but by me instead of the heretic who messed up my hair and my beard so badly I had to clean shave and recut it myself)! And a yoga retreat!
+
+EDIT: oh and I bought the entire back catalogue of Demoscene Time Machine earlier today. I am glad I have this.
+
+And this is the habit tracker I use - I wonder if it's possible to get a feature added to automatically export the SQLite .db file to Google Drive, because that would be very useful for my other project.  
